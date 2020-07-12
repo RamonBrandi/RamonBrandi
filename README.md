@@ -9,4 +9,4 @@
 
 Meu nome é Ramon Brandi e sou apaixonado por ciência e tecnologia. Atualmente busco o aperfeicoamento das minhas capacidades técnicas na area de Data Science e tenho muito interesse em desenvolvimento mobile.
 
-- :black_heart: Techs: Python, Java, Kotlin.
+- :black_heart: Techs: Python, Java, Kotlin, entre outras.
