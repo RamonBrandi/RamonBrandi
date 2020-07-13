@@ -10,7 +10,7 @@
 
 Meu nome é Ramon Brandi e sou apaixonado por ciência e tecnologia. Atualmente busco o aperfeicoamento das minhas capacidades técnicas na area de Data Science e tenho muito interesse em desenvolvimento mobile.
 
-## Conhecimentos básicos em:
+## Conhecimentos em:
 
 [![Java](http://img.shields.io/badge/-Java-Red?style=flat-square&logo=Java&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
 [![Python](https://img.shields.io/badge/-Python-Yellow?style=flat-square&logo=Python&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
