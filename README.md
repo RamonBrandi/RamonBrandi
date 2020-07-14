@@ -3,6 +3,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RamonBrandi)](https://github.com/RamonBrandi)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramonbrandi/)](https://www.linkedin.com/in/ramonbrandi/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-Black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/ramones-py)](https://medium.com/ramones-py)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5512988085037&text=Olá!)](https://api.whatsapp.com/send?phone=5512988085037&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ramonbrand@gmail.com)](mailto:ramonbrand@gmail.com)
 
@@ -26,7 +27,7 @@ Meu nome é Ramon Brandi e sou apaixonado por ciência e tecnologia. Atualmente 
 
 
 
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-Yellow?style=flat-square&logo=mongodb&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
