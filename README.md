@@ -21,7 +21,7 @@ Meu nome é Ramon Brandi e sou apaixonado por ciência e tecnologia. Atualmente 
 [![Kotlin](https://img.shields.io/badge/Kotlin-Green?style=flat-square&logo=Kotlin&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-Yellow?style=flat-square&logo=mongodb&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
