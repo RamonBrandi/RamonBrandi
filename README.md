@@ -9,9 +9,9 @@
 
 ## Olá! 👋
 
-Meu nome é Ramon Brandi e sou apaixonado por ciência e tecnologia. Atualmente busco o aperfeicoamento das minhas capacidades técnicas na area de Data Science e tenho muito interesse em desenvolvimento mobile.
+Meu nome é Ramon Brandi e sou apaixonado por ciência e tecnologia. Atualmente busco o aperfeicoamento das minhas capacidades técnicas na area de Data Science e tenho muito interesse em desenvolvimento mobile e de games.
 
-## Conhecimentos em:
+## Stacks:
 
 
 [![Python](https://img.shields.io/badge/-Python-Yellow?style=flat-square&logo=Python&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
@@ -19,7 +19,7 @@ Meu nome é Ramon Brandi e sou apaixonado por ciência e tecnologia. Atualmente 
 [![C](https://img.shields.io/badge/-Linguagem%20C-A8B9CC?style=flat-square&logo=c&logoColor=white&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
 
 [![Java](http://img.shields.io/badge/-Java-Red?style=flat-square&logo=Java&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-Green?style=flat-square&logo=Android&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-Green?style=flat-square&logo=Kotlin&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-Yellow?style=flat-square&logo=mongodb&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
@@ -27,9 +27,10 @@ Meu nome é Ramon Brandi e sou apaixonado por ciência e tecnologia. Atualmente 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
 
-## Interesses também em:
+## Interesses principais em:
 
-[![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
-[![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
+[![Data Science](https://img.shields.io/badge/Data%20Science-Orange?style=flat-square&logo=Jupyter&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
+[![Desenvolvimento Mobile](https://img.shields.io/badge/-Desenvolvimento%20Mobile-Green?style=flat-square&logo=Android&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
+[![Desenvolvimento de Jogos](https://img.shields.io/badge/Desenvolvimento%20de%20Games-Red?style=flat-square&logo=Nintendo%20Switch&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
 
 ---
