@@ -13,19 +13,13 @@ Meu nome é Ramon Brandi e sou apaixonado por ciência e tecnologia. Atualmente 
 
 ## Conhecimentos em:
 
-[![Java](http://img.shields.io/badge/-Java-Red?style=flat-square&logo=Java&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
+
 [![Python](https://img.shields.io/badge/-Python-Yellow?style=flat-square&logo=Python&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
 [![R](http://img.shields.io/badge/-Linguagem%20R-Blue?style=flat-square&logo=RStudio&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
 [![C](https://img.shields.io/badge/-Linguagem%20C-A8B9CC?style=flat-square&logo=c&logoColor=white&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
+
+[![Java](http://img.shields.io/badge/-Java-Red?style=flat-square&logo=Java&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-Green?style=flat-square&logo=Android&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
-
-
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
-
-
 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-Yellow?style=flat-square&logo=mongodb&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
