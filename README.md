@@ -9,7 +9,7 @@
 
 ## Olá! 👋
 
-Meu nome é Ramon Brandi e sou apaixonado por ciência e tecnologia. Atualmente busco o aperfeicoamento das minhas capacidades técnicas na area de Data Science e tenho muito interesse em desenvolvimento mobile e de games.
+Sou apaixonado por ciência e tecnologia. Atualmente busco o aperfeicoamento das minhas capacidades técnicas na area de Data Science e tenho muito interesse em desenvolvimento mobile e de games.
 
 ## Stacks:
 
