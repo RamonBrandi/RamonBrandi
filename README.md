@@ -16,7 +16,6 @@ Meu nome é Ramon Brandi e sou apaixonado por ciência e tecnologia. Atualmente 
 
 [![Python](https://img.shields.io/badge/-Python-Yellow?style=flat-square&logo=Python&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
 [![R](http://img.shields.io/badge/-Linguagem%20R-Blue?style=flat-square&logo=RStudio&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
-[![C](https://img.shields.io/badge/-Linguagem%20C-A8B9CC?style=flat-square&logo=c&logoColor=white&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
 
 [![Java](http://img.shields.io/badge/-Java-Red?style=flat-square&logo=Java&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-Green?style=flat-square&logo=Kotlin&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
