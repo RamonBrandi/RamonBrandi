@@ -9,7 +9,7 @@
 
 ## Olá! 👋
 
-Sou apaixonado por ciência e tecnologia. Atualmente busco o aperfeicoamento das minhas capacidades técnicas na area de Data Science e tenho muito interesse em desenvolvimento mobile e de games.
+Sou apaixonado por ciência e tecnologia. Atualmente busco o aperfeicoamento das minhas capacidades técnicas na area de Data Science e tenho muito interesse em desenvolvimento mobile.
 
 ## Stacks:
 
@@ -18,7 +18,6 @@ Sou apaixonado por ciência e tecnologia. Atualmente busco o aperfeicoamento das
 [![R](http://img.shields.io/badge/-Linguagem%20R-Blue?style=flat-square&logo=RStudio&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
 
 [![Java](http://img.shields.io/badge/-Java-Red?style=flat-square&logo=Java&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-Green?style=flat-square&logo=Kotlin&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-Yellow?style=flat-square&logo=mongodb&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
@@ -29,7 +28,5 @@ Sou apaixonado por ciência e tecnologia. Atualmente busco o aperfeicoamento das
 ## Interesses principais em:
 
 [![Data Science](https://img.shields.io/badge/Data%20Science-Orange?style=flat-square&logo=Jupyter&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
-[![Desenvolvimento Mobile](https://img.shields.io/badge/-Desenvolvimento%20Mobile-Green?style=flat-square&logo=Android&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
-[![Desenvolvimento de Jogos](https://img.shields.io/badge/Desenvolvimento%20de%20Games-Red?style=flat-square&logo=Nintendo%20Switch&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
 
 ---
