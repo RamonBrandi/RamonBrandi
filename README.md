@@ -9,7 +9,7 @@
 
 ## Olá! 👋
 
-Sou apaixonado por ciência e tecnologia. Atualmente busco o aperfeicoamento das minhas capacidades técnicas na area de Data Science e tenho muito interesse em desenvolvimento mobile.
+Sou apaixonado por ciência e tecnologia. Atualmente busco o aperfeicoamento das minhas capacidades técnicas na area de Data Science e tenho muito interesse em desenvolvimento web.
 
 ## Stacks:
 
