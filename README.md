@@ -15,6 +15,8 @@ Sou apaixonado por ciência e tecnologia. Atualmente busco o aperfeicoamento das
 
 
 [![Python](https://img.shields.io/badge/-Python-Yellow?style=flat-square&logo=Python&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
+[![Java](https://img.shields.io/badge/-Java-Red?style=flat-square&logo=Java&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-Green?style=flat-square&logo=Kotlin&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
 [![Javascript](http://img.shields.io/badge/-Javascript-Black?style=flat-square&logo=Javascript&logoColor=Yellow&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
 [![CSS](http://img.shields.io/badge/-CSS-Blue?style=flat-square&logo=CSS3&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
 [![HTML](http://img.shields.io/badge/-HTML-Orange?style=flat-square&logo=HTML5&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
@@ -26,6 +28,6 @@ Sou apaixonado por ciência e tecnologia. Atualmente busco o aperfeicoamento das
 
 ## Interesses principais em:
 
-[![Data Science](https://img.shields.io/badge/Data%20Science-Orange?style=flat-square&logo=Jupyter&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
+[![Desenvolvimento Mobile](https://img.shields.io/badge/Desenvolvimento%20Mobile-Green?style=flat-square&logo=Android&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
 [![Desenvolvimento Web](http://img.shields.io/badge/-Desenvolvimento%20Web-Purple?style=flat-square&logo=Internet-explorer&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
 ---
