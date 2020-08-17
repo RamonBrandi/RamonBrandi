@@ -17,6 +17,7 @@ Sou apaixonado por ciência e tecnologia. Atualmente busco o aperfeicoamento das
 [![Python](https://img.shields.io/badge/-Python-Yellow?style=flat-square&logo=Python&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
 [![Java](https://img.shields.io/badge/-Java-Red?style=flat-square&logo=Java&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-Green?style=flat-square&logo=Kotlin&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
+
 [![Javascript](http://img.shields.io/badge/-Javascript-Black?style=flat-square&logo=Javascript&logoColor=Yellow&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
 [![CSS](http://img.shields.io/badge/-CSS-Blue?style=flat-square&logo=CSS3&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
 [![HTML](http://img.shields.io/badge/-HTML-Orange?style=flat-square&logo=HTML5&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
