@@ -7,19 +7,21 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ramonbrand@gmail.com)](mailto:ramonbrand@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-Medium-Black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/ramones-py)](https://medium.com/ramones-py)
 
+
 ## Olá! 👋
 
 Sou apaixonado por ciência e tecnologia e sou Bolsita PIBIC pelo CNPq com atuação no Instituto Nacional de Pesquisas Espaciais (INPE/CPTEC).
 
 Atualmente busco o aperfeicoamento das minhas capacidades técnicas na area de Data Science e tenho muito interesse em desenvolvimento web.
 
+
+
 ## Stacks:
 
 
 ![Python](https://img.shields.io/badge/-Python-Yellow?style=flat-square&logo=Python&logoColor=White&link=https://github.com/RamonBrandi/)
 ![Java](https://img.shields.io/badge/-Java-Red?style=flat-square&logo=Java&logoColor=White&link=https://github.com/RamonBrandi/)
-
-
+ 
 ![Javascript](http://img.shields.io/badge/-Javascript-Black?style=flat-square&logo=Javascript&logoColor=Yellow&link=https://github.com/RamonBrandi/)
 ![CSS](http://img.shields.io/badge/-CSS-Blue?style=flat-square&logo=CSS3&logoColor=White&link=https://github.com/RamonBrandi/)
 ![HTML](http://img.shields.io/badge/-HTML-Orange?style=flat-square&logo=HTML5&logoColor=White&link=https://github.com/RamonBrandi/)
@@ -33,4 +35,7 @@ Atualmente busco o aperfeicoamento das minhas capacidades técnicas na area de D
 
 [![Data Science](https://img.shields.io/badge/Data%20Science-Orange?style=flat-square&logo=Jupyter&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
 [![Desenvolvimento Web](http://img.shields.io/badge/-Desenvolvimento%20Web-Purple?style=flat-square&logo=Internet-explorer&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/Projetos-Web)
+
+<p align="right">
+<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="150">
 ---
