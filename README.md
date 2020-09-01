@@ -14,7 +14,7 @@
 
 Sou apaixonado por ciência e tecnologia e sou Bolsita PIBIC pelo CNPq com atuação no Instituto Nacional de Pesquisas Espaciais (INPE/CPTEC).
 
-Atualmente busco o aperfeicoamento das minhas capacidades técnicas na area de Data Science e tenho muito interesse em desenvolvimento web.
+Atualmente busco o aperfeicoamento das minhas capacidades técnicas na area de Data Science e tenho muito interesse em Desenvolvimento Web.
 
 
 
