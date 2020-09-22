@@ -21,22 +21,23 @@ Atualmente busco o aperfeicoamento das minhas capacidades técnicas na area de D
 ## Stacks:
 
 
-![Python](https://img.shields.io/badge/-Python-Yellow?style=flat-square&logo=Python&logoColor=White&link=https://github.com/RamonBrandi/)
-![Java](https://img.shields.io/badge/-Java-Red?style=flat-square&logo=Java&logoColor=White&link=https://github.com/RamonBrandi/)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python&logoColor=white&link=https://github.com/RamonBrandi/)
+![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java&logoColor=White&link=https://github.com/RamonBrandi/)
+![C](https://img.shields.io/badge/-Linguagem%20C-blue?style=flat-square&logo=C&logoColor=White&link=https://github.com/RamonBrandi/)
+
  
-![Javascript](http://img.shields.io/badge/-Javascript-Black?style=flat-square&logo=Javascript&logoColor=Yellow&link=https://github.com/RamonBrandi/)
-![CSS](http://img.shields.io/badge/-CSS-Blue?style=flat-square&logo=CSS3&logoColor=White&link=https://github.com/RamonBrandi/)
-![HTML](http://img.shields.io/badge/-HTML-Orange?style=flat-square&logo=HTML5&logoColor=White&link=https://github.com/RamonBrandi/)
+![Javascript](http://img.shields.io/badge/-Javascript-black?style=flat-square&logo=Javascript&logoColor=Yellow&link=https://github.com/RamonBrandi/)
+![CSS](http://img.shields.io/badge/-CSS-blue?style=flat-square&logo=CSS3&logoColor=White&link=https://github.com/RamonBrandi/)
+![HTML](http://img.shields.io/badge/-HTML-orange?style=flat-square&logo=HTML5&logoColor=white&link=https://github.com/RamonBrandi/)
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=White&link=https://github.com/RamonBrandi/)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://github.com/RamonBrandi/)
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/RamonBrandi/)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/RamonBrandi/)
 
 ## Visite Meus Projetos:
 
-[![Data Science](https://img.shields.io/badge/Data%20Science-Orange?style=flat-square&logo=Jupyter&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/Projetos-Data-Science)
-[![Desenvolvimento Web](http://img.shields.io/badge/-Desenvolvimento%20Web-Purple?style=flat-square&logo=Internet-explorer&logoColor=White&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/Projetos-Web)
+[![Data Science](https://img.shields.io/badge/Data%20Science-orange?style=flat-square&logo=Jupyter&logoColor=white&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/Projetos-Data-Science)
+[![Desenvolvimento Web](http://img.shields.io/badge/-Desenvolvimento%20Web-purple?style=flat-square&logo=Internet-explorer&logoColor=white&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/Projetos-Web)
+[![Resolução de Algoritmos](http://img.shields.io/badge/-Algoritmos-blue?style=flat-square&logo=Pastebin&logoColor=white&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
 
 <p align="right">
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="150">
