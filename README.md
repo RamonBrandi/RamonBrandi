@@ -32,7 +32,7 @@ Atualmente busco o aperfeicoamento das minhas capacidades técnicas na area de D
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://github.com/RamonBrandi/)
 
 
-## Visite Meus Projetos:
+## Interesses:
 
 [![Data Science](https://img.shields.io/badge/Data%20Science-orange?style=flat-square&logo=Jupyter&logoColor=white&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/Projetos-Data-Science)
 [![Desenvolvimento Web](http://img.shields.io/badge/-Desenvolvimento%20Web-purple?style=flat-square&logo=Internet-explorer&logoColor=white&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/Projetos-Web)
