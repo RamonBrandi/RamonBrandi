@@ -34,7 +34,6 @@ Atualmente busco o aperfeicoamento das minhas capacidades técnicas no mundo de 
 
 [![Data Science](https://img.shields.io/badge/Data%20Science-orange?style=flat-square&logo=Jupyter&logoColor=white&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/Projetos-Data-Science)
 [![Desenvolvimento Web](http://img.shields.io/badge/-Desenvolvimento%20Web-purple?style=flat-square&logo=Internet-explorer&logoColor=white&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/Projetos-Web)
-[![Resolução de Algoritmos](http://img.shields.io/badge/-Sistemas%20Embarcados-blue?style=flat-square&logo=Arduino&logoColor=white&link=https://github.com/RamonBrandi/)](https://github.com/RamonBrandi/)
 
 <p align="right">
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="150">
