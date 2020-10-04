@@ -5,7 +5,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ramonbrand@gmail.com)](mailto:ramonbrand@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/ramones-py)](https://medium.com/ramones-py)
 
-<img align="right" src="https://github.com/RamonBrandi/Projetos-Web/blob/master/Developer.gif"/>
 
 
 ## Olá! 👋
