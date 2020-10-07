@@ -20,12 +20,10 @@ Atualmente busco o aperfeicoamento das minhas capacidades técnicas no mundo de 
 
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python&logoColor=white&link=https://github.com/RamonBrandi/)
 ![Javascript](http://img.shields.io/badge/-Javascript-black?style=flat-square&logo=Javascript&logoColor=Yellow&link=https://github.com/RamonBrandi/)
-![CSS](http://img.shields.io/badge/-CSS-blue?style=flat-square&logo=CSS3&logoColor=White&link=https://github.com/RamonBrandi/)
-![HTML](http://img.shields.io/badge/-HTML-orange?style=flat-square&logo=HTML5&logoColor=white&link=https://github.com/RamonBrandi/)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://github.com/RamonBrandi/)
 
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask&logoColor=white&link=https://github.com/RamonBrandi/)
-![Vue.Js](https://img.shields.io/badge/-Vue.Js-green?style=flat-square&logo=Vue.js&logoColor=white&link=https://github.com/RamonBrandi/)
+![Django](https://img.shields.io/badge/-Django-Green?style=flat-square&logo=Django&logoColor=white&link=https://github.com/RamonBrandi/)
 ![Node.Js](http://img.shields.io/badge/-Node.Js-003300?style=flat-square&logo=Node.js&logoColor=white&link=https://github.com/RamonBrandi/)
 
 
