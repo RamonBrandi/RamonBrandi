@@ -11,7 +11,7 @@
 
 Sou apaixonado por ciência e tecnologia e sou Bolsista PIBIC pelo CNPq com atuação no Instituto Nacional de Pesquisas Espaciais (INPE/CPTEC).
 
-Atualmente busco o aperfeicoamento das minhas capacidades técnicas no mundo de TI.
+Atualmente busco o aperfeicoamento das minhas capacidades técnicas na área de desenvolvimento back-end.
 
 
 
