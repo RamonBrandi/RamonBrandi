@@ -46,10 +46,6 @@ Quer me conhecer melhor?! [Clique aqui.](https://medium.com/ramones-py/quem-sou-
         <img height="64px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png">
       </td>
       <td width="25%" align="center">
-        <span><b>React</b></span><br><br><br>
-        <img height="70px" src="https://thidu.dev/images/React.svg">
-      </td>
-      <td width="25%" align="center">
         <span><b>Vue.Js</b></span><br><br><br>
         <img height="70px" src="https://pbs.twimg.com/profile_images/875996174305472512/upM71pVR_400x400.jpg">
       </td>
