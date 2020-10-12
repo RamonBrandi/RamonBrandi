@@ -21,7 +21,7 @@ Quer me conhecer melhor?! [Clique aqui.](https://medium.com/ramones-py/quem-sou-
 ---
 
 <center>   <h2> 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 </h2> </center>
-
+<center>   <h4> O que estou sempre aprendendo... </h4> </center>
 <table>
   <tbody>
     <tr valign="top">
@@ -37,13 +37,21 @@ Quer me conhecer melhor?! [Clique aqui.](https://medium.com/ramones-py/quem-sou-
         <span><b>Django</b></span><br><br><br>
         <img height="64px" src="https://nextsoftware.io/files/images/logos/main/django-logo.png">
       </td>
-         <td width="25%" align="center">
-           <span><b>MySQL</b></span><br><br><br>
-        <img height="64px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fsqlbackupandftp.com%2Fblog%2Fwp-content%2Fuploads%2F2015%2F01%2Fmysql-logo_2800x2800_pixels1-1024x1024.png&f=1&nofb=1">
+      <td width="25%" align="center">
+        <span><b>Javascript</b></span><br><br><br>
+        <img height="64px" src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png">
       </td>
       <td width="25%" align="center">
-        <span><b>MongoDB</b></span><br><br><br>
-        <img height="64px" src="https://clipartart.com/images/mongodb-logo-clipart-6.jpg">
+        <span><b>Typescript</b></span><br><br><br>
+        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png">
+      </td>
+      <td width="25%" align="center">
+        <span><b>React</b></span><br><br><br>
+        <img height="70px" src="https://thidu.dev/images/React.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>Vue.Js</b></span><br><br><br>
+        <img height="70px" src="https://pbs.twimg.com/profile_images/875996174305472512/upM71pVR_400x400.jpg">
       </td>
     </tr>
   </tbody>
