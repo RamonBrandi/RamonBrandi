@@ -8,7 +8,7 @@
 ---
 
 
-## Olá! 👋
+## print("Olá, mundo!") 👋
 
 - 👨‍💻 Atualmente sou bolsista PIBIC CNPq com atuação no CPTEC/INPE.
 - 🐍 Estou sempre disposto a contribuir com a comunidade Python passando os meus conhecimentos e aprendendo cada dia mais. 
