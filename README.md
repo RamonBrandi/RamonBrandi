@@ -37,20 +37,6 @@ Quer me conhecer melhor?! [Clique aqui.](https://medium.com/ramones-py/quem-sou-
         <span><b>Django</b></span><br><br><br>
         <img height="64px" src="https://nextsoftware.io/files/images/logos/main/django-logo.png">
       </td>
-      <br>
-      <td width="25%" align="center">
-        <span><b>Javascript</b></span><br><br><br>
-        <img height="64px" src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png">
-      </td>
-      <td width="20%" align="center">
-        <span><b>Typescript</b></span><br><br><br>
-        <img height="60px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png">
-      </td>
-      <td width="55%" align="center">
-        <span><b>Node.Js</b></span><br><br><br>
-        <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1920px-Node.js_logo.svg.png">
-      </td>
-      </br>
     </tr>
   </tbody>
 </table>
