@@ -21,7 +21,6 @@ Quer me conhecer melhor?! [Clique aqui.](https://medium.com/ramones-py/quem-sou-
 ---
 
 <center>   <h2> 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 </h2> </center>
-<center>   <h4> O que estou sempre aprendendo... </h4> </center>
 <table>
   <tbody>
     <tr valign="top">
@@ -43,6 +42,13 @@ Quer me conhecer melhor?! [Clique aqui.](https://medium.com/ramones-py/quem-sou-
 </p>
 
 <hr>
+
+<center>   <h3> O que estou sempre aprendendo... </h3> </center>
+
+[![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=Javascript&logoColor=yellow)]()
+[![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript&logoColor=blue)]()
+[![Node.Js](https://img.shields.io/badge/-Node.Js-gray?style=flat-square&logo=Node.js&logoColor=green)]()
+
 
   <h2 align="center"> Github Statistics 📈 </h2>
   
