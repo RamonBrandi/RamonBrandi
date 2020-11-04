@@ -10,7 +10,7 @@
 
 ## print("Olá, mundo!") 👋
 
-- 👨‍💻 Atualmente sou bolsista PIBIC CNPq com atuação no CPTEC/INPE.
+- 👨‍💻 Atualmente sou bolsista PIBIC CNPq com atuação no CPTEC/INPE e sou apaixonado por Python, Desenvolvimento Back-End, Scraping e Data Science.
 - 🐍 Estou sempre disposto a contribuir com a comunidade Python passando os meus conhecimentos e aprendendo cada dia mais. 
 - ⚙️ Tenho grande interesse em desenvolvimento back-end em Python, com Flask e Django. 
 - 🐦 Melhor maneira de entrar em contato comigo é pelo [LinkedIn](https://www.linkedin.com/in/ramonbrandi/)
