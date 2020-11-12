@@ -45,7 +45,7 @@ Quer me conhecer melhor?! [Clique aqui.](https://medium.com/ramones-py/quem-sou-
 <center>   <h3> O que estou sempre aprendendo... </h3> </center>
 
 [![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=Javascript&logoColor=yellow)]()
-[![Linguagem C](https://img.shields.io/badge/Linguagem%20C-blue?style=flat-square&logo=C&logoColor=white]()
+[![Linguagem C](https://img.shields.io/badge/Linguagem%20C-blue?style=flat-square&logo=C&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/Linux-yellow?style=flat-square&logo=linux&logoColor=white)]()
 
 
