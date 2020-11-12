@@ -30,11 +30,6 @@ Quer me conhecer melhor?! [Clique aqui.](https://medium.com/ramones-py/quem-sou-
       <td width="25%" align="center">
         <span><b>Flask</b></span><br><br><br>
         <img height="64px" src="https://www.kindpng.com/picc/m/188-1882559_python-flask-hd-png-download.png">
-      </td>
-        <td width="25%" align="center">
-        <span><b>Django</b></span><br><br><br>
-        <img height="64px" src="https://nextsoftware.io/files/images/logos/main/django-logo.png">
-      </td>
     </tr>
   </tbody>
 </table>
