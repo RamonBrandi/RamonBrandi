@@ -10,9 +10,8 @@
 
 ## print("Olá, mundo!") 👋
 
-- 👨‍💻 Atualmente sou bolsista PIBIC CNPq com atuação no CPTEC/INPE e sou apaixonado por Python, Desenvolvimento Back-End, Scraping e Data Science.
-- 🐍 Estou sempre disposto a contribuir com a comunidade Python passando os meus conhecimentos e aprendendo cada dia mais. 
-- ⚙️ Tenho grande interesse em desenvolvimento back-end em Python, com Flask e Django. 
+- 👨‍💻 Atualmente sou bolsista PIBIC CNPq com atuação no CPTEC/INPE e sou apaixonado por Python.
+- ⚙️ Tenho grande interesse em desenvolvimento back-end e segurança da informação.
 - 🐦 Melhor maneira de entrar em contato comigo é pelo [LinkedIn](https://www.linkedin.com/in/ramonbrandi/)
 
 
@@ -46,8 +45,8 @@ Quer me conhecer melhor?! [Clique aqui.](https://medium.com/ramones-py/quem-sou-
 <center>   <h3> O que estou sempre aprendendo... </h3> </center>
 
 [![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=Javascript&logoColor=yellow)]()
-[![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript&logoColor=blue)]()
-[![Node.Js](https://img.shields.io/badge/-Node.Js-gray?style=flat-square&logo=Node.js&logoColor=green)]()
+[![Linguagem C](https://img.shields.io/badge/Linguagem%20C-blue?style=flat-square&logo=C&logoColor=white]()
+[![Linux](https://img.shields.io/badge/Linux-yellow?style=flat-square&logo=linux&logoColor=white)]()
 
 
   <h2 align="center"> Github Statistics 📈 </h2>
