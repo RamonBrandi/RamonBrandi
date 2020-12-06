@@ -11,7 +11,7 @@
 ## print("Olá, mundo!") 👋
 
 - 👨‍💻 Atualmente sou bolsista PIBIC CNPq com atuação no CPTEC/INPE e sou apaixonado por Python.
-- ⚙️ Tenho grande interesse em desenvolvimento back-end e segurança da informação.
+- ⚙️ Tenho grande interesse em desenvolvimento web e segurança da informação.
 - 🐦 Melhor maneira de entrar em contato comigo é pelo [LinkedIn](https://www.linkedin.com/in/ramonbrandi/)
 
 
