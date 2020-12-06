@@ -10,7 +10,7 @@
 
 ## print("Olá, mundo!") 👋
 
-- 👨‍💻 Atualmente sou bolsista PIBIC CNPq com atuação no CPTEC/INPE e sou apaixonado por Python.
+- 👨‍💻 Atualmente sou bolsista PIBIC CNPq com atuação no CPTEC/INPE.
 - ⚙️ Tenho grande interesse em desenvolvimento web e segurança da informação.
 - 🐦 Melhor maneira de entrar em contato comigo é pelo [LinkedIn](https://www.linkedin.com/in/ramonbrandi/)
 
@@ -19,75 +19,56 @@ Quer me conhecer melhor?! [Clique aqui.](https://medium.com/ramones-py/quem-sou-
 
 ---
 
-### Frameworks 
-
-<p align="left">
-  <a href="#">
-    <img src="./angular.svg" alt="angular" style="vertical-align:top; margin:6px 4px">
-  </a>  
+## Frameworks 
 
    <a href="#">
-    <img src="./bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
-  </a>   
+    <img src="./packs/bootstrap.png" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
+  </a>    
+
 
   <a href="#">
-    <img src="./jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px">
+    <img src="./packs/react.png" alt="react" style="vertical-align:top; margin:6px 4px">
   </a>  
 
 
   <a href="#">
-    <img src="./nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
+    <img src="./packs/vue.png" alt="vue" style="vertical-align:top; margin:6px 4px">
   </a>  
-
 
   <a href="#">
-    <img src="./react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
+    <img src="./packs/jquery.png" alt="jquery" style="vertical-align:top; margin:6px 4px">
+  </a> 
 
   <a href="#">
-    <img src="./vue.svg" alt="vue" style="vertical-align:top; margin:6px 4px">
-  </a>  
+    <img src="./packs/materialize.png" alt="jquery" style="vertical-align:top; margin:6px 4px">
+  </a> 
 
 
 </p>
 
-### Languages 
+## Languages 
 
   <a href="#">
-    <img src="./css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+    <img src="./packs/css3.png" alt="css3" style="vertical-align:top; margin:6px 4px">
   </a>
 
 
   <a href="#">
-    <img src="./html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+    <img src="./packs/html.png" alt="html" style="vertical-align:top; margin:6px 4px">
   </a>   
 
   <a href="#">
-    <img src="./js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+    <img src="./packs/js.png" alt="js" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img src="./python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+    <img src="./packs/python.png" alt="python" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img src="./sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px">
+    <img src="./packs/sass.png" alt="sass" style="vertical-align:top; margin:6px 4px">
   </a>  
 
-
-</p>
-
-### Misc
-
-   <a href="#">
-    <img src="./security.svg" alt="security" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-
-   <a href="#">
-    <img src="./web.svg" alt="web" style="vertical-align:top; margin:6px 4px">
-  </a>  
 
 </p>
 
@@ -106,6 +87,5 @@ Quer me conhecer melhor?! [Clique aqui.](https://medium.com/ramones-py/quem-sou-
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonBrandi&theme=react&line_height=40&hide=css"/>
     </a>
 </div
-<br/>
 
 
