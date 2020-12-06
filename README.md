@@ -19,29 +19,81 @@ Quer me conhecer melhor?! [Clique aqui.](https://medium.com/ramones-py/quem-sou-
 
 ---
 
-<center>   <h2> 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 </h2> </center>
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><b>Python 3</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><b>Flask</b></span><br><br><br>
-        <img height="64px" src="https://www.kindpng.com/picc/m/188-1882559_python-flask-hd-png-download.png">
-    </tr>
-  </tbody>
-</table>
+### Frameworks 
+
+<p align="left">
+  <a href="#">
+    <img src="svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+   <a href="#">
+    <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
+  </a>   
+
+  <a href="#">
+    <img src="svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+
+  <a href="#">
+    <img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+
+  <a href="#">
+    <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+
+  <a href="#">
+    <img src="svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+
 </p>
 
-<hr>
+### Languages 
 
-<center>   <h3> O que estou sempre aprendendo... </h3> </center>
+  <a href="#">
+    <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a>
 
-[![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=Javascript&logoColor=yellow)]()
-[![Linguagem C](https://img.shields.io/badge/Linguagem%20C-blue?style=flat-square&logo=C&logoColor=white)]()
-[![Linux](https://img.shields.io/badge/Linux-yellow?style=flat-square&logo=linux&logoColor=white)]()
+
+  <a href="#">
+    <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+  </a>   
+
+  <a href="#">
+    <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+
+</p>
+
+### Misc
+
+   <a href="#">
+    <img src="svg/dev/misc/security.svg" alt="security" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+
+   <a href="#">
+    <img src="svg/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+</p>
+
+
+--- 
+
 
 
   <h2 align="center"> Github Statistics 📈 </h2>
