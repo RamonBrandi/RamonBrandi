@@ -23,30 +23,30 @@ Quer me conhecer melhor?! [Clique aqui.](https://medium.com/ramones-py/quem-sou-
 
 <p align="left">
   <a href="#">
-    <img src="svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:6px 4px">
+    <img src="./angular.svg" alt="angular" style="vertical-align:top; margin:6px 4px">
   </a>  
 
    <a href="#">
-    <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
+    <img src="./bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
   </a>   
 
   <a href="#">
-    <img src="svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px">
+    <img src="./jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px">
   </a>  
 
 
   <a href="#">
-    <img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
+    <img src="./nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
   </a>  
 
 
   <a href="#">
-    <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+    <img src="./react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
   </a>  
 
 
   <a href="#">
-    <img src="svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:6px 4px">
+    <img src="./vue.svg" alt="vue" style="vertical-align:top; margin:6px 4px">
   </a>  
 
 
@@ -55,24 +55,24 @@ Quer me conhecer melhor?! [Clique aqui.](https://medium.com/ramones-py/quem-sou-
 ### Languages 
 
   <a href="#">
-    <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+    <img src="./css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
   </a>
 
 
   <a href="#">
-    <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+    <img src="./html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
   </a>   
 
   <a href="#">
-    <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+    <img src="./js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+    <img src="./python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img src="svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px">
+    <img src="./sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px">
   </a>  
 
 
@@ -81,12 +81,12 @@ Quer me conhecer melhor?! [Clique aqui.](https://medium.com/ramones-py/quem-sou-
 ### Misc
 
    <a href="#">
-    <img src="svg/dev/misc/security.svg" alt="security" style="vertical-align:top; margin:6px 4px">
+    <img src="./security.svg" alt="security" style="vertical-align:top; margin:6px 4px">
   </a>  
 
 
    <a href="#">
-    <img src="svg/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:6px 4px">
+    <img src="./web.svg" alt="web" style="vertical-align:top; margin:6px 4px">
   </a>  
 
 </p>
