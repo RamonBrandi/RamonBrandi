@@ -39,11 +39,6 @@ Quer me conhecer melhor?! [Clique aqui.](https://medium.com/ramones-py/quem-sou-
     <img src="./packs/jquery.png" alt="jquery" style="vertical-align:top; margin:6px 4px">
   </a> 
 
-  <a href="#">
-    <img src="./packs/materialize.png" alt="jquery" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
-
 </p>
 
 ## Languages 
