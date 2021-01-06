@@ -17,6 +17,14 @@
 
 Quer me conhecer melhor?! [Clique aqui.](https://medium.com/ramones-py/quem-sou-eu-20aced258459)
 
+   <a href="#">
+    <img src="./packs/web.png" alt="web" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
+  <a href="#">
+    <img src="./packs/gamedev.png" alt="game" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
 ---
 
 ## Frameworks 
@@ -28,11 +36,6 @@ Quer me conhecer melhor?! [Clique aqui.](https://medium.com/ramones-py/quem-sou-
 
   <a href="#">
     <img src="./packs/react.png" alt="react" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-
-  <a href="#">
-    <img src="./packs/vue.png" alt="vue" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
@@ -61,11 +64,35 @@ Quer me conhecer melhor?! [Clique aqui.](https://medium.com/ramones-py/quem-sou-
   </a>  
 
   <a href="#">
-    <img src="./packs/sass.png" alt="sass" style="vertical-align:top; margin:6px 4px">
+    <img src="./packs/csharp.png" alt="csharp" style="vertical-align:top; margin:6px 4px">
   </a>  
+  
+  <a href="#">
+    <img src="./packs/java.png" alt="java" style="vertical-align:top; margin:6px 4px">
+  </a>
 
 
 </p>
+
+## Tools
+
+  <a href="#">
+    <img src="./packs/jetbrains_intellij.png" alt="intelli" style="vertical-align:top; margin:6px 4px">
+  </a>
+  
+  <a href="#">
+    <img src="./packs/visualstudio.png" alt="visual studio" style="vertical-align:top; margin:6px 4px">
+  </a>
+  
+  <a href="#">
+    <img src="./packs/visualstudio_code.png" alt="visual studio code" style="vertical-align:top; margin:6px 4px">
+  </a>
+    <a href="#">
+      <img src="./packs/unity.png" alt="visual studio code" style="vertical-align:top; margin:6px 4px">
+    </a>
+  
+  
+
 
 
 --- 
