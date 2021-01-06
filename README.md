@@ -79,17 +79,20 @@ Quer me conhecer melhor?! [Clique aqui.](https://medium.com/ramones-py/quem-sou-
   <a href="#">
     <img src="./packs/jetbrains_intellij.png" alt="intelli" style="vertical-align:top; margin:6px 4px">
   </a>
+  <a href="#">
+   <img src="./packs/eclipse.png" alt="eclipse" style="vertical-align:top; margin:6px 4px">
+  </a>
   
   <a href="#">
     <img src="./packs/visualstudio.png" alt="visual studio" style="vertical-align:top; margin:6px 4px">
   </a>
-  
-  <a href="#">
+    <a href="#">
+      <img src="./packs/unity.png" alt="unity" style="vertical-align:top; margin:6px 4px">
+    </a>
+      <a href="#">
     <img src="./packs/visualstudio_code.png" alt="visual studio code" style="vertical-align:top; margin:6px 4px">
   </a>
-    <a href="#">
-      <img src="./packs/unity.png" alt="visual studio code" style="vertical-align:top; margin:6px 4px">
-    </a>
+
   
   
 
