@@ -37,6 +37,9 @@ Quer me conhecer melhor?! [Clique aqui.](https://medium.com/ramones-py/quem-sou-
   <a href="#">
     <img src="./packs/react.png" alt="react" style="vertical-align:top; margin:6px 4px">
   </a>  
+    <a href="#">
+    <img src="./packs/vue.png" alt="react" style="vertical-align:top; margin:6px 4px">
+  </a>  
 
 </p>
 
