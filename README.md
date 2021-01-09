@@ -17,71 +17,30 @@
 
 Quer me conhecer melhor?! [Clique aqui.](https://medium.com/ramones-py/quem-sou-eu-20aced258459)
 
-   <a href="#">
-    <img src="./packs/web.png" alt="web" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  
-  <a href="#">
-    <img src="./packs/gamedev.png" alt="game" style="vertical-align:top; margin:6px 4px">
-  </a>  
 
----
+```python
+class Ramones:
 
-## Frameworks 
+    def __init__(self):
+        self.username = 'ramones'
+        self.name = 'Ramon Brandi'
+        self.code = {
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'VueJs', 'Boostrap'],
+            'backend': ['Python', 'Flask', 'Django', 'C#'],
+            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
+            'tools': ['GIT', 'GitHub', 'GitLab', 'Visual Studio Code', 'SQLAlchemy', 'Unity],
+            'misc': ['TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
+        }
 
-   <a href="#">
-    <img src="./packs/bootstrap.png" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
-  </a>    
-
-
-  <a href="#">
-    <img src="./packs/react.png" alt="react" style="vertical-align:top; margin:6px 4px">
-  </a>  
-    <a href="#">
-    <img src="./packs/vue.png" alt="react" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-</p>
-
-## Languages 
-
-  <a href="#">
-    <img src="./packs/css3.png" alt="css3" style="vertical-align:top; margin:6px 4px">
-  </a>
+    def __str__(self):
+        return self.name
 
 
-  <a href="#">
-    <img src="./packs/html.png" alt="html" style="vertical-align:top; margin:6px 4px">
-  </a>   
-
-  <a href="#">
-    <img src="./packs/js.png" alt="js" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="./packs/python.png" alt="python" style="vertical-align:top; margin:6px 4px">
-  </a>  
+if __name__ == '__main__':
+    me = Ramones()
 
 
-</p>
-
-## Tools
-
- <a>
-    <a href="#">
-      <img src="./packs/unity.png" alt="unity" style="vertical-align:top; margin:6px 4px">
-    </a>
-      <a href="#">
-    <img src="./packs/visualstudio_code.png" alt="visual studio code" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  
-  
-
-
-
---- 
-
+```
 
 
   <h2 align="center"> Github Statistics 📈 </h2>
