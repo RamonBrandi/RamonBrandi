@@ -42,6 +42,8 @@ if __name__ == '__main__':
 
 ```
 
+<img align="right" alt="GIF" src="giphy.gif" />
+
 
   <h2 align="center"> Github Statistics 📈 </h2>
   
