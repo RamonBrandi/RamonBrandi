@@ -38,10 +38,6 @@ Quer me conhecer melhor?! [Clique aqui.](https://medium.com/ramones-py/quem-sou-
     <img src="./packs/react.png" alt="react" style="vertical-align:top; margin:6px 4px">
   </a>  
 
-  <a href="#">
-    <img src="./packs/jquery.png" alt="jquery" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
 </p>
 
 ## Languages 
@@ -63,29 +59,12 @@ Quer me conhecer melhor?! [Clique aqui.](https://medium.com/ramones-py/quem-sou-
     <img src="./packs/python.png" alt="python" style="vertical-align:top; margin:6px 4px">
   </a>  
 
-  <a href="#">
-    <img src="./packs/csharp.png" alt="csharp" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  
-  <a href="#">
-    <img src="./packs/java.png" alt="java" style="vertical-align:top; margin:6px 4px">
-  </a>
-
 
 </p>
 
 ## Tools
 
-  <a href="#">
-    <img src="./packs/jetbrains_intellij.png" alt="intelli" style="vertical-align:top; margin:6px 4px">
-  </a>
-  <a href="#">
-   <img src="./packs/eclipse.png" alt="eclipse" style="vertical-align:top; margin:6px 4px">
-  </a>
-  
-  <a href="#">
-    <img src="./packs/visualstudio.png" alt="visual studio" style="vertical-align:top; margin:6px 4px">
-  </a>
+ <a>
     <a href="#">
       <img src="./packs/unity.png" alt="unity" style="vertical-align:top; margin:6px 4px">
     </a>
