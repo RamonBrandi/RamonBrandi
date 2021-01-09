@@ -32,7 +32,7 @@ class Ramones:
             'frontend': ['HTML', 'CSS', 'JavaScript', 'VueJs', 'Boostrap'],
             'backend': ['Python', 'Flask', 'Django', 'C#'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
-            'tools': ['GIT', 'GitHub', 'GitLab', 'Visual Studio Code', 'SQLAlchemy', 'Unity],
+            'tools': ['GIT', 'GitHub', 'GitLab', 'Visual Studio Code', 'SQLAlchemy', 'Unity'],
             'misc': ['TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
         }
 
