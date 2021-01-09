@@ -1,9 +1,13 @@
 
 # :man_technologist: Ramon Brandi
 
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramonbrandi/)](https://www.linkedin.com/in/ramonbrandi/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ramonbrand@gmail.com)](mailto:ramonbrand@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/ramones-py)](https://medium.com/ramones-py)
+
+<img align="right" alt="GIF" src="./packs/giphy.gif" />
 
 ---
 
@@ -23,7 +27,7 @@ class Ramones:
 
     def __init__(self):
         self.username = 'ramones'
-        self.name = 'Ramon Brandi'
+        self.name = 'Ramon Brandi da Silva'
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'VueJs', 'Boostrap'],
             'backend': ['Python', 'Flask', 'Django', 'C#'],
@@ -41,8 +45,6 @@ if __name__ == '__main__':
 
 
 ```
-
-<img align="right" alt="GIF" src="giphy.gif" />
 
 
   <h2 align="center"> Github Statistics 📈 </h2>
