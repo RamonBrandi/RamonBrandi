@@ -30,7 +30,7 @@ class Ramones:
         self.username = 'ramones'
         self.name = 'Ramon Brandi da Silva'
         self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'VueJs', 'Boostrap'],
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap'],
             'backend': ['Java', 'Spring Boot', Python', 'Flask', 'C#'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
             'tools': ['GIT', 'GitHub', 'Visual Studio Code', 'SQLAlchemy', 'Unity'],
