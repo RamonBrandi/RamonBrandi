@@ -31,7 +31,7 @@ class Ramones:
         self.name = 'Ramon Brandi da Silva'
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap'],
-            'backend': ['Java', 'Spring Boot', 'Python', 'Flask', 'C#'],
+            'backend': ['Python', 'Flask', 'Django', 'C#', 'Java'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
             'tools': ['GIT', 'GitHub', 'Visual Studio Code', 'SQLAlchemy', 'Unity'],
             'misc': ['TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
