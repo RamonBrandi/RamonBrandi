@@ -32,7 +32,7 @@ class Ramones:
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap'],
             'backend': ['Python', 'Flask', 'C', 'C++ 'Java'],
-            'science': ['Numpy', 'Pandas', 'OpenCV', 'Scikitlearn', 'Tensorflow', 'Bokeh']
+            'science': ['Numpy', 'Pandas', 'OpenCV', 'Scikitlearn', 'Tensorflow', 'Bokeh'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
             'tools': ['GIT', 'GitHub', 'Visual Studio Code', 'Jupyter Notebook'],
             'misc': ['TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
