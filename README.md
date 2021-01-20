@@ -15,7 +15,7 @@
 ## print("Olá, mundo!") 👋
 
 - 👨‍💻 Atualmente sou bolsista PIBIC CNPq com atuação no CPTEC/INPE.
-- ⚙️ Tenho grande interesse em desenvolvimento de software, visão computacional, machine learning e deep learning.
+- ⚙️ Tenho grande interesse em desenvolvimento de software e games.
 - 🐦 Melhor maneira de entrar em contato comigo é pelo [LinkedIn](https://www.linkedin.com/in/ramonbrandi/)
 
 
@@ -31,8 +31,7 @@ class Ramones:
         self.name = 'Ramon Brandi da Silva'
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap'],
-            'backend': ['Python', 'Flask', 'C', 'C++ 'Java'],
-            'science': ['Numpy', 'Pandas', 'OpenCV', 'Scikitlearn', 'Tensorflow', 'Bokeh'],
+            'backend': ['Python', 'Flask', 'Django', 'Java'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
             'tools': ['GIT', 'GitHub', 'Visual Studio Code', 'Jupyter Notebook'],
             'misc': ['TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
