@@ -30,10 +30,9 @@ class Ramones:
         self.username = 'ramones'
         self.name = 'Ramon Brandi da Silva'
         self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap'],
-            'backend': ['Python', 'Flask', 'Django', 'Java'],
+            'backend': ['Python', 'Flask', 'Django', 'Java', 'C++', 'C#'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
-            'tools': ['GIT', 'GitHub', 'Visual Studio Code', 'Jupyter Notebook'],
+            'tools': ['GIT', 'GitHub', 'Visual Studio Code', 'Eclipse', 'CodeBlocks', 'Unity'],
             'misc': ['TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
         }
 
