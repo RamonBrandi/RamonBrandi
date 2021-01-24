@@ -24,28 +24,26 @@ Quer me conhecer melhor?! [Clique aqui.](https://medium.com/ramones-py/quem-sou-
 
 <p/>
 
-```python
-class Ramones:
+## Languages
 
-    def __init__(self):
-        self.username = 'ramones'
-        self.name = 'Ramon Brandi da Silva'
-        self.code = {
-            'backend': ['Python', 'Flask', 'Django', 'C#'],
-            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
-            'tools': ['GIT', 'GitHub', 'Visual Studio Code', 'Unity'],
-            'misc': ['TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
-        }
+![](https://img.shields.io/badge/-C%20Sharp-green?style=flat-square&logo=C%20Sharp&logoColor=white)
+![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white)
+![](https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java&logoColor=white)
 
-    def __str__(self):
-        return self.name
+## Framkeworks
+
+![](https://img.shields.io/badge/-ASP%20NET-purple?style=flat-square&logo=.NET&logoColor=white)
+![](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask&logoColor=white)
+![](https://img.shields.io/badge/-Bootstrap-violet?style=flat-square&logo=Bootstrap&logoColor=white)
 
 
-if __name__ == '__main__':
-    me = Ramones()
 
+## Tools
 
-```
+![](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=Unity&logoColor=white)
+![](https://img.shields.io/badge/-Blender-orange?style=flat-square&logo=Blender&logoColor=white)
+![](https://img.shields.io/badge/-Vs%20Code-blue?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
+![](https://img.shields.io/badge/-Git-yellow?style=flat-square&logo=Git&logoColor=white)
 
 
   <h2 align="center"> Github Statistics 📈 </h2>
