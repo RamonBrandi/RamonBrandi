@@ -43,6 +43,7 @@ Quer me conhecer melhor?! [Clique aqui.](https://medium.com/ramones-py/quem-sou-
 
 ![](https://img.shields.io/badge/-Unity-gray?style=flat-square&logo=Unity&logoColor=white)
 ![](https://img.shields.io/badge/-Blender-orange?style=flat-square&logo=Blender&logoColor=white)
+![](https://img.shields.io/badge/-Figma-brown?style=flat-square&logo=Figma&logoColor=white)
 ![](https://img.shields.io/badge/-Vs%20Code-blue?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 ![](https://img.shields.io/badge/-Git-yellow?style=flat-square&logo=Git&logoColor=white)
 
