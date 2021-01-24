@@ -33,7 +33,7 @@ Quer me conhecer melhor?! [Clique aqui.](https://medium.com/ramones-py/quem-sou-
 
 ## Framkeworks
 
-![](https://img.shields.io/badge/-React%20Js-black?style=flat-square&logo=React&logoColor=blue)
+![](https://img.shields.io/badge/-React%20Js-gray?style=flat-square&logo=React&logoColor=blue)
 ![](https://img.shields.io/badge/-Vue%20Js-green?style=flat-square&logo=Vue.js&logoColor=white)
 ![](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=Bootstrap&logoColor=white)
 
@@ -41,7 +41,7 @@ Quer me conhecer melhor?! [Clique aqui.](https://medium.com/ramones-py/quem-sou-
 
 ## Tools
 
-![](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=Unity&logoColor=white)
+![](https://img.shields.io/badge/-Unity-gray?style=flat-square&logo=Unity&logoColor=white)
 ![](https://img.shields.io/badge/-Blender-orange?style=flat-square&logo=Blender&logoColor=white)
 ![](https://img.shields.io/badge/-Vs%20Code-blue?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 ![](https://img.shields.io/badge/-Git-yellow?style=flat-square&logo=Git&logoColor=white)
