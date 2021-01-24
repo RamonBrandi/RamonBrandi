@@ -27,16 +27,16 @@ Quer me conhecer melhor?! [Clique aqui.](https://medium.com/ramones-py/quem-sou-
 ## Languages
 
 ![](https://img.shields.io/badge/-C%20Sharp-green?style=flat-square&logo=C%20Sharp&logoColor=white)
-![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white)
-
 ![](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=Javascript&logoColor=yellow)
 ![](https://img.shields.io/badge/-HTML-grey?style=flat-square&logo=HTML5&logoColor=red)
 ![](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=CSS3&logoColor=white)
 
 ## Framkeworks
 
-![](https://img.shields.io/badge/-ASP%20NET-purple?style=flat-square&logo=.NET&logoColor=white)
-![](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask&logoColor=white)
+![](https://img.shields.io/badge/-React%20Js-black?style=flat-square&logo=React&logoColor=blue)
+![](https://img.shields.io/badge/-Vue%20Js-green?style=flat-square&logo=Vue.js&logoColor=white)
+![](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=Bootstrap&logoColor=white)
+
 
 
 ## Tools
