@@ -27,23 +27,18 @@ Quer me conhecer melhor?! [Clique aqui.](https://medium.com/ramones-py/quem-sou-
 ## Languages
 
 ![](https://img.shields.io/badge/-C%20Sharp-green?style=flat-square&logo=C%20Sharp&logoColor=white)
+![](https://img.shields.io/badge/-C%20++-blue?style=flat-square&logo=c%2B%2B&Color=white)
 ![](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=Javascript&logoColor=yellow)
 ![](https://img.shields.io/badge/-HTML-grey?style=flat-square&logo=HTML5&logoColor=red)
 ![](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=CSS3&logoColor=white)
-
-## Framkeworks
-
-![](https://img.shields.io/badge/-React%20Js-gray?style=flat-square&logo=React&logoColor=blue)
-![](https://img.shields.io/badge/-Vue%20Js-green?style=flat-square&logo=Vue.js&logoColor=white)
-![](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=Bootstrap&logoColor=white)
-
-
+![](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=MySQL&logoColor=white)
+![](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDb&logoColor=green)
 
 ## Tools
 
-![](https://img.shields.io/badge/-Unity-gray?style=flat-square&logo=Unity&logoColor=white)
+![](https://img.shields.io/badge/-Unity%20Engine-gray?style=flat-square&logo=Unity&logoColor=white)
+![](https://img.shields.io/badge/-Unreal%20Engine-black?style=flat-square&logo=Unreal%20Engine&logoColor=white)
 ![](https://img.shields.io/badge/-Blender-orange?style=flat-square&logo=Blender&logoColor=white)
-![](https://img.shields.io/badge/-Figma-brown?style=flat-square&logo=Figma&logoColor=white)
 ![](https://img.shields.io/badge/-Vs%20Code-blue?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 ![](https://img.shields.io/badge/-Git-yellow?style=flat-square&logo=Git&logoColor=white)
 
