@@ -20,7 +20,6 @@
 - 🐦 Melhor maneira de entrar em contato comigo é pelo [LinkedIn](https://www.linkedin.com/in/ramonbrandi/)
 
 
-Quer me conhecer melhor?! [Clique aqui.](https://medium.com/ramones-py/quem-sou-eu-20aced258459)
 
 <p/>
 
