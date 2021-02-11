@@ -16,7 +16,7 @@
 ## print("Olá, mundo!") 👋
 
 - 👨‍💻 Atualmente sou bolsista PIBIC CNPq com atuação no CPTEC/INPE.
-- ⚙️ Tenho grande interesse em desenvolvimento de games.
+- ⚙️ Tenho grande interesse em desenvolvimento de software, redes e arquitetura.
 - 🐦 Melhor maneira de entrar em contato comigo é pelo [LinkedIn](https://www.linkedin.com/in/ramonbrandi/)
 
 
@@ -29,15 +29,22 @@
 ![](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=Javascript&logoColor=yellow)
 ![](https://img.shields.io/badge/-HTML-grey?style=flat-square&logo=HTML5&logoColor=red)
 ![](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=CSS3&logoColor=white)
-![](https://img.shields.io/badge/-React-blue?style=flat-square&logo=React&logoColor=white)
+![](https://img.shields.io/badge/-Flask-gray?style=flat-square&logo=Flask&logoColor=white)
+![](https://img.shields.io/badge/-Python-yellow?=flat-square&logo=Python&logoColor=white)
 
 
 ![](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=Bootstrap&Color=black)
-![](https://img.shields.io/badge/-Sass-pink?style=flat-square&logo=Sass&Color=black)
-![](https://img.shields.io/badge/-tailwind%20CSS-gray?style=flat-square&logo=Tailwind%20Css&Color=black)
+![](https://img.shields.io/badge/-Docker-blue?=flat-square&logo=Docker&logoColor=white)
+![](https://img.shields.io/badge/-kubernetes-gray?=flat-square&logo=kubernetes&logoColor=white)
+![](https://img.shields.io/badge/-Azure%20Devops-green?=flat-square&logo=Azure%20Devops&logoColor=white)
+![](https://img.shields.io/badge/-AWS-yellow?=flat-square&logo=Amazon%20Aws&logoColor=white)
+![](https://img.shields.io/badge/-Terraform-brown?=flat-square&logo=Terraform&logoColor=white)
+
+
 
 
 ![](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=MySQL&logoColor=white)
+![](https://img.shields.io/badge/-Linux-blue?style=flat-square&logo=Linux&logoColor=white)
 ![](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDb&logoColor=green)
 
 
