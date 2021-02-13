@@ -29,6 +29,9 @@
 ![](https://img.shields.io/badge/-Django-Green?=flat-square&logo=Django&logoColor=white)
 ![](https://img.shields.io/badge/-Flask-gray?style=flat-square&logo=Flask&logoColor=white)
 
+![](https://img.shields.io/badge/-Csharp-green?style=flat-square&logo=C%20sharp&logoColor=white)
+![](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=c%2B%2B&&logoColor=white)
+
 
 ![](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=Javascript&logoColor=yellow)
 ![](https://img.shields.io/badge/-HTML-grey?style=flat-square&logo=HTML5&logoColor=red)
@@ -36,16 +39,16 @@
 ![](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=Bootstrap&Color=black)
 
 
-![](https://img.shields.io/badge/-Docker-blue?=flat-square&logo=Docker&logoColor=white)
-![](https://img.shields.io/badge/-kubernetes-gray?=flat-square&logo=kubernetes&logoColor=white)
-![](https://img.shields.io/badge/-Ansible-gray?=flat-square&logo=Ansible&logoColor=white)
-![](https://img.shields.io/badge/-AWS-yellow?=flat-square&logo=Amazon%20Aws&logoColor=white)
-![](https://img.shields.io/badge/-Terraform-brown?=flat-square&logo=Terraform&logoColor=white)
-![](https://img.shields.io/badge/-Linux-blue?style=flat-square&logo=Linux&logoColor=white)
-
-
 ![](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=MySQL&logoColor=white)
 ![](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDb&logoColor=green)
+
+
+![](https://img.shields.io/badge/-Linux-blue?style=flat-square&logo=Linux&logoColor=white)
+
+![](https://img.shields.io/badge/-Unity%20Engine-gray?style=flat-square&logo=Unity&logoColor=white)
+![](https://img.shields.io/badge/-Unreal%20Engine-gray?style=flat-square&logo=Unreal%20Engine&logoColor=white)
+
+
 
 
   <h2 align="center"> Github Statistics 📈 </h2>
