@@ -16,7 +16,7 @@
 ## print("Olá, mundo!") 👋
 
 - 👨‍💻 Atualmente sou bolsista PIBIC CNPq com atuação no CPTEC/INPE.
-- ⚙️ Tenho grande interesse em desenvolvimento de software, redes e arquitetura.
+- ⚙️ Tenho grande interesse em desenvolvimento de software e games.
 - 🐦 Melhor maneira de entrar em contato comigo é pelo [LinkedIn](https://www.linkedin.com/in/ramonbrandi/)
 
 
