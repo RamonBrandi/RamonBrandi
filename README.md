@@ -23,7 +23,7 @@
 
 <p/>
 
-## Languages
+## Languages and Tools
 
 ![](https://img.shields.io/badge/-Python-yellow?=flat-square&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/-Django-Green?=flat-square&logo=Django&logoColor=white)
