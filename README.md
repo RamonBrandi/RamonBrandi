@@ -42,8 +42,6 @@
 ![](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDb&logoColor=green)
 
 
-![](https://img.shields.io/badge/-Unity%20Engine-gray?style=flat-square&logo=Unity&logoColor=white)
-![](https://img.shields.io/badge/-Unreal%20Engine-gray?style=flat-square&logo=Unreal%20Engine&logoColor=white)
 
 
 
