@@ -25,13 +25,14 @@
 
 ## Languages and Tools
 
-![](https://img.shields.io/badge/-Python-yellow?=flat-square&logo=Python&logoColor=white)
-![](https://img.shields.io/badge/-Django-Green?=flat-square&logo=Django&logoColor=white)
-![](https://img.shields.io/badge/-Flask-gray?style=flat-square&logo=Flask&logoColor=white)
-
 
 ![](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=c%2B%2B&&logoColor=white)
 ![](https://img.shields.io/badge/-Csharp-green?style=flat-square&logo=C%20sharp&logoColor=white)
+![](https://img.shields.io/badge/-DotNet-blue?=flat-square&logo=.NET&logoColor=white)
+
+
+![](https://img.shields.io/badge/-Python-yellow?=flat-square&logo=Python&logoColor=white)
+![](https://img.shields.io/badge/-Flask-gray?style=flat-square&logo=Flask&logoColor=white)
 
 
 ![](https://img.shields.io/badge/-HTML-grey?style=flat-square&logo=HTML5&logoColor=red)
