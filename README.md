@@ -16,7 +16,7 @@
 ## print("Olá, mundo!") 👋
 
 - 👨‍💻 Atualmente sou bolsista PIBIC CNPq com atuação no CPTEC/INPE.
-- ⚙️ Tenho grande interesse em desenvolvimento web, computação científica e desenvolvimento de games.
+- ⚙️ Tenho grande interesse em computação científica, data science e desenvolvimento de software.
 - 🐦 Melhor maneira de entrar em contato comigo é pelo [LinkedIn](https://www.linkedin.com/in/ramonbrandi/)
 
 
@@ -26,7 +26,7 @@
 
 
 
-  <h2 align="center"> Github Statistics 📈 </h2>
+  <h2 align="center"> Statistics 📈 </h2>
   
   <br>
         
