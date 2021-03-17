@@ -28,13 +28,21 @@
 
   <h2 align="center"> Github Statistics 📈 </h2>
   
-  <div align="center"> 
+  <br>
+        
+  <div align="left"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RamonBrandi&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+      <img width="450px" src="https://github-readme-stats.vercel.app/api?username=RamonBrandi&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=tokyonight"/>
     </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonBrandi&theme=react&line_height=40&hide=css"/>
-    </a>
+      <img width="330px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonBrandi&layout=compact&theme=tokyonight">
+    </a>  
+    <a href="">
+     <img width="450px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RamonBrandi&layout=compact&theme=tokyonight" />
+    </a> 
 </div
+<br/>
+</details>
+
 
 
