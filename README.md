@@ -16,7 +16,6 @@
 ## print("Olá, mundo!") 👋
 
 - 👨‍💻 Atualmente sou bolsista PIBIC CNPq com atuação no CPTEC/INPE.
-- ⚙️ Tenho grande interesse em computação científica, data science e desenvolvimento de software.
 - 🐦 Melhor maneira de entrar em contato comigo é pelo [LinkedIn](https://www.linkedin.com/in/ramonbrandi/)
 
 
