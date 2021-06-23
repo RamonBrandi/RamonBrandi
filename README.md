@@ -16,7 +16,8 @@
 ## print("Olá, mundo!") 👋
 
 - 👨‍💻 Atualmente sou bolsista PIBIC CNPq com atuação no Instituto Nacional de Pesquisas Espaciais (INPE).
-- 🐦 Melhor maneira de entrar em contato comigo é pelo [LinkedIn](https://www.linkedin.com/in/ramonbrandi/)
+- Tenho interesse em ciência de dados, especificamente, análise de dados, visão computacional e processamento de imagens.
+- 📲 Melhor maneira de entrar em contato comigo é pelo [LinkedIn](https://www.linkedin.com/in/ramonbrandi/)
 
 
 
