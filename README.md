@@ -19,7 +19,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🗂 Docker | Kubernetes | AWS | Linux
+- 🗂 Docker | Swarm |Kubernetes | AWS | Linux
 - 💽 Python | Shell Script | Flask
 - 🔧 Git | GitLab | GiHub | GitHub Actions
 
