@@ -14,13 +14,14 @@
 - 🤔 Adoro aprender sobre novas tecnologias.
 - 💼 Melhor maneira de entrar em contato comigo é pelo Linkedin, Whatsapp e-mail.
 - 🌱 Em constante aprendizado sobre sistemas operacionais, cloud, IaC e desenvolvimento de sistemas.
+- 🐧 Sou apaixonado por Linux e Software Livre.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Docker | Kubernetes | AWS | Linux | Terraform
-- 🛢 Python | Shell Script |
+- 💻 Docker | Kubernetes | AWS | Linux
+- 🛢 Python | Shell Script | Flask
 - 🔧 Git | GitLab | GiHub | GitHub Actions
 
 
-[![Gomex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamonBrandi&show_icons=true)](https://github.com/RamonBrandi)
+[![Ramones GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamonBrandi&show_icons=true)](https://github.com/RamonBrandi)
 
