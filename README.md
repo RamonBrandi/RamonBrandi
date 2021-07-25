@@ -12,15 +12,15 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 Adoro aprender sobre novas tecnologias.
-- 💼 Melhor maneira de entrar em contato comigo é pelo Linkedin, Whatsapp e email.
+- 💻 Adoro aprender sobre novas tecnologias.
+- 📞 Melhor maneira de entrar em contato comigo é pelo Linkedin, Whatsapp e email.
 - 🌱 Em constante aprendizado sobre sistemas operacionais, cloud, IaC e desenvolvimento de sistemas.
 - 🐧 Sou apaixonado por Linux e Software Livre.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 Docker | Kubernetes | AWS | Linux
-- 🛢 Python | Shell Script | Flask
+- 🗂 Docker | Kubernetes | AWS | Linux
+- 💽 Python | Shell Script | Flask
 - 🔧 Git | GitLab | GiHub | GitHub Actions
 
 
