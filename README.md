@@ -34,9 +34,6 @@
       <img width="450px" src="https://github-readme-stats.vercel.app/api?username=RamonBrandi&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=tokyonight"/>
     </a>
     <a href="">
-      <img width="330px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonBrandi&layout=compact&theme=tokyonight">
-    </a>  
-    <a href="">
      <img width="450px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RamonBrandi&layout=compact&theme=tokyonight" />
     </a> 
 </div
