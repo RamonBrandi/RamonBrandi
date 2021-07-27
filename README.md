@@ -14,14 +14,14 @@
 
 - 💻 Adoro aprender sobre novas tecnologias.
 - 📞 Melhor maneira de entrar em contato comigo é pelo Linkedin, Whatsapp e email.
-- 🌱 Em constante aprendizado sobre sistemas operacionais, cloud, IaC e desenvolvimento de sistemas.
+- 🌱 Em constante aprendizado sobre desenvolvimento de sistemas de informação.
 - 🐧 Sou apaixonado por Linux e Software Livre.
 
 <h3>🛠 Tech Stack</h3>
 
-- 🗂 Docker | Swarm | Kubernetes | AWS | Linux
-- 💽 Python | Shell Script | Flask
-- 🔧 Git | GitLab | GiHub | GitHub Actions
+- 🗂 React.Js | Vue.Js | Flask
+- 💽 HTML5 | CSS3 | Javascript | Python | Shell Script
+- 🔧 Git/Gitflow | GitLab | GiHub
 
 
 [![Ramones GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamonBrandi&show_icons=true)](https://github.com/RamonBrandi)
