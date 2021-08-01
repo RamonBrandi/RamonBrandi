@@ -1,6 +1,7 @@
 
-# :man_technologist: Olá, pessoas! 🤘
+# :man_technologist: Olá, pessoas! 🤘  
 
+[![My love Music Badge](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/playlist?list=PL9ObscwrFhuJWLalAKU8KkVlFaTHnO_3a&feature=share)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramonbrandi/)
 [![Whats Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5535992029625)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramonbrand@gmail.com)
