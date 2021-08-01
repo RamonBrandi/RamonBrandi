@@ -28,4 +28,6 @@
   
   ##
  
+   ![Snake animation](https://github.com/ramonbrandi/ramonbrandi/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
